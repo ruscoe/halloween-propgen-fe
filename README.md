@@ -1,6 +1,8 @@
 # Halloween PropGen Frontend
 
-A React frontend for Halloween PropGen
+![Halloween PropGen Frontend](https://github.com/user-attachments/assets/8f2f9373-eb02-4532-9c16-75b774cd61bb)
+
+A React frontend for Halloween PropGen.
 
 ## Set up
 
